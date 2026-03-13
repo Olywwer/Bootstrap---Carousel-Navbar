@@ -1,0 +1,19 @@
+body{
+background:#f4f4f4;
+}
+
+.carousel-item img{
+height:500px;
+object-fit:cover;
+}
+
+.tech-section{
+padding:60px 0;
+}
+
+footer{
+background:#111;
+color:white;
+padding:30px;
+margin-top:40px;
+}
